@@ -63,7 +63,7 @@ sudo ./CitadelScanTool.sh --profile=isaca --output=/tmp/audit --html --banner=au
 
 ---
 
-## 🤝 Contributions
+## 🤝🏾 Contributions
 
 Les contributions sont les bienvenues : suggestions, issues, pull requests.  
 Les propositions d’amélioration seront étudiées avec attention.
