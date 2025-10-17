@@ -1,0 +1,63 @@
+Citadel Open License (Non-Commerciale)
+Version 1.0 – Octobre 2025
+
+Copyright (c) 2025
+Citadel IT Solutions
+Tous droits réservés.
+
+Le présent script (« CitadelScan Tool ») est distribué sous la **Citadel Open License (Non-Commerciale)**.
+
+─────────────────────────────────────────────────────────────
+1. Objet
+─────────────────────────────────────────────────────────────
+Le CitadelScan Tool est mis à disposition à des fins d’apprentissage,
+de recherche, d’audit non-intrusif et de contribution communautaire.
+
+─────────────────────────────────────────────────────────────
+2. Droits accordés
+─────────────────────────────────────────────────────────────
+Il est permis, à titre gratuit et non exclusif :
+- d’utiliser, copier et exécuter le script sur tout système Unix/Linux ;
+- de le modifier et d’en redistribuer des versions modifiées ;
+- de le fusionner ou d’en réutiliser tout ou partie du code,
+  à condition de respecter les obligations d’attribution
+  et de ne pas en faire un usage commercial.
+
+─────────────────────────────────────────────────────────────
+3. Attribution obligatoire
+─────────────────────────────────────────────────────────────
+Toute copie, modification ou redistribution doit mentionner clairement :
+« CitadelScan Tool – développé par Citadel IT Solutions (2025),
+inspiré des travaux ISACA (2015). »
+
+─────────────────────────────────────────────────────────────
+4. Usage non commercial
+─────────────────────────────────────────────────────────────
+La vente, la revente ou l’intégration dans un produit ou service payant
+sans autorisation écrite préalable de Citadel IT Solutions est interdite.
+
+─────────────────────────────────────────────────────────────
+5. Garantie et responsabilité
+─────────────────────────────────────────────────────────────
+Le logiciel est fourni "en l’état", sans garantie d’aucune sorte.
+L’auteur et Citadel IT Solutions ne pourront être tenus responsables
+d’aucun dommage résultant de son utilisation.
+
+─────────────────────────────────────────────────────────────
+6. Contact
+─────────────────────────────────────────────────────────────
+Pour toute demande d’utilisation commerciale ou intégration,
+contactez : contact@citadelitsolutions.net
+
+─────────────────────────────────────────────────────────────
+ENGLISH SUMMARY
+─────────────────────────────────────────────────────────────
+This software ("CitadelScan Tool") is released under the
+**Citadel Open License (Non-Commercial)**.
+
+- Free to use, copy, modify, and share for **non-commercial purposes only**.
+- Proper attribution required:
+  “CitadelScan Tool – Citadel IT Solutions (2025), inspired by ISACA (2015).”
+- Commercial use or resale is **strictly prohibited** without written consent.
+
+Provided “as is”, without warranty of any kind.
