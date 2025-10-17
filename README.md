@@ -153,7 +153,7 @@ sudo ./CitadelScanTool.sh --profile=isaca --output=/tmp/audit --html --banner=au
 
 ---
 
-## 🤝 Contributions
+## 🤝🏾 Contributions
 
 Contributions are welcome — suggestions, issues, pull requests.  
 All improvements will be reviewed carefully.
